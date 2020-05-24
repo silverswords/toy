@@ -11,6 +11,12 @@
   router.start()
 </script>
 
+<style global>
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+</style>
+
 <nav>
   <a href="/">Home</a>
   <a href="/about">About</a>
