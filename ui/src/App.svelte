@@ -17,11 +17,6 @@
   @tailwind utilities;
 </style>
 
-<nav>
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-</nav>
-
 <main>
   <svelte:component this={ page } />
 </main>
